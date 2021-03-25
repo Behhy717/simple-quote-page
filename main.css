@@ -17,6 +17,7 @@ body{
     width: 90%;
     margin: 0 auto;
     text-align:center;
+    font-size: 10vw;
 }
 .quote{
     font-family:'Julius Sans One', sans-serif;
